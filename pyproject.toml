@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 
 [project]
 name = "django_print_models"
-version = "0.3"
+version = "0.4"
 authors = [
   { name = "Mitchel Humpherys", email = "mitch.special@gmail.com" },
 ]

@@ -11,7 +11,7 @@ definition doesn't matter.
 
 ## Installation
 
-1. `pip install django_print_models`
+1. `pip install django-print-models`
 2. Add `django_print_models` to your `INSTALLED_APPS` in Django settings.
 
 ## Usage
